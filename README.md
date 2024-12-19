@@ -50,4 +50,9 @@ Before you begin, ensure you have met the following requirements:
     flutter run
     ```
 
+5. **Output:**
+
+   ![image](https://github.com/user-attachments/assets/68f1fc84-4d2f-466a-bd2a-3cbe9db27010) ![image](https://github.com/user-attachments/assets/27f06758-e4af-423a-a215-86d624625d8b)
+
+
 Make sure you have Flutter installed on your machine. For more information on how to install Flutter, visit the [official Flutter installation guide](https://docs.flutter.dev/get-started/install).
