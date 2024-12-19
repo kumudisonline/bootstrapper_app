@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874690440951",
+    "project_id": "bootstrapper-app-cfad2",
+    "storage_bucket": "bootstrapper-app-cfad2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874690440951:android:5a3f9ccc6021957057adf2",
+        "android_client_info": {
+          "package_name": "com.example.bootstrapper_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Q4mpl9xnPHBHmkGLXbupmfMx_Q9evA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
