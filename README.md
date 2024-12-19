@@ -1,6 +1,6 @@
 # bootstrapper_app
 
-A new Flutter project.
+A new Flutter Bootstrpper project. which has just login and signup page for now
 
 ## Getting Started
 
@@ -14,3 +14,40 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Setup and Installation 
+
+To set up and run this project on your local machine, follow these steps:
+
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed Flutter SDK. Follow the instructions [here](https://docs.flutter.dev/get-started/install).
+- You have a code editor installed, such as [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
+- You have set up an emulator or have a physical device connected for testing.
+- You have Git installed. Download it from [here](https://git-scm.com/).
+
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/bootstrapper_app.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd bootstrapper_app
+    ```
+
+3. **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+
+4. **Run the application:**
+    ```bash
+    flutter run
+    ```
+
+Make sure you have Flutter installed on your machine. For more information on how to install Flutter, visit the [official Flutter installation guide](https://docs.flutter.dev/get-started/install).
