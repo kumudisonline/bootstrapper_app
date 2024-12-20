@@ -47,12 +47,14 @@ Before you begin, ensure you have met the following requirements:
 
 4. **Run the application:**
     ```bash
-    flutter run
+    flutter run # or run via vs code 
     ```
 
 5. **Output:**
 
    ![image](https://github.com/user-attachments/assets/68f1fc84-4d2f-466a-bd2a-3cbe9db27010) ![image](https://github.com/user-attachments/assets/27f06758-e4af-423a-a215-86d624625d8b)
-
+6. **Common Issues:**
+   - add ANDROID_HOME path
+   - update path variable for other android studio plugin
 
 Make sure you have Flutter installed on your machine. For more information on how to install Flutter, visit the [official Flutter installation guide](https://docs.flutter.dev/get-started/install).
